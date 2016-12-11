@@ -9,7 +9,7 @@
     "geom:bbox":"-91.13115,30.367564,-90.99202,30.458914",
     "geom:latitude":30.4182,
     "geom:longitude":-91.062956,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":38719932.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 69",
     "uscensus:sldlst":"069",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486762,
     "wof:geomhash":"1559608933b130d989f62ff90be7edef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765955,
     "wof:lastmodified":1481486762,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

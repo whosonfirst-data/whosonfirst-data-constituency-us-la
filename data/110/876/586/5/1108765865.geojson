@@ -9,7 +9,7 @@
     "geom:bbox":"-91.31049,30.371332,-91.07403,30.5424",
     "geom:latitude":30.460503,
     "geom:longitude":-91.202799,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":108064694.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 29",
     "uscensus:sldlst":"029",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486751,
     "wof:geomhash":"899e488cc572033571919e1ee5fd7400",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765865,
     "wof:lastmodified":1481486751,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

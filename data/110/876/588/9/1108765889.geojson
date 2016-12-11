@@ -9,7 +9,7 @@
     "geom:bbox":"-92.262832,30.327987,-91.95984,30.795229",
     "geom:latitude":30.569337,
     "geom:longitude":-92.104115,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":637513461.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 40",
     "uscensus:sldlst":"040",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486754,
     "wof:geomhash":"e4a4f0b318bec218d62e10ad8f8d9c98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765889,
     "wof:lastmodified":1481486754,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

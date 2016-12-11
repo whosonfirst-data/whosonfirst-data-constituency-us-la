@@ -9,7 +9,7 @@
     "geom:bbox":"-92.31288,31.221012,-91.26806,32.405808",
     "geom:latitude":31.945774,
     "geom:longitude":-91.84823,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5164457276.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 20",
     "uscensus:sldlst":"020",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486747,
     "wof:geomhash":"b4cf7842ae073d285387c06932a7d775",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765843,
     "wof:lastmodified":1481486747,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

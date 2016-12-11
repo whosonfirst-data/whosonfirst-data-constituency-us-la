@@ -9,7 +9,7 @@
     "geom:bbox":"-90.56715,30.269971,-90.2434,30.544678",
     "geom:latitude":30.402562,
     "geom:longitude":-90.384619,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":556031122.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 73",
     "uscensus:sldlst":"073",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486763,
     "wof:geomhash":"87993c5100119b7f7da66b8a42e53042",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765963,
     "wof:lastmodified":1481486763,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

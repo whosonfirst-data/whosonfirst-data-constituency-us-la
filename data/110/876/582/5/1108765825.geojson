@@ -9,7 +9,7 @@
     "geom:bbox":"-92.85833,32.495486,-92.05207,33.014489",
     "geom:latitude":32.781632,
     "geom:longitude":-92.434408,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3070683654.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 12",
     "uscensus:sldlst":"012",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486744,
     "wof:geomhash":"941df44214bb05d7324e35a844a85eff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765825,
     "wof:lastmodified":1481486744,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

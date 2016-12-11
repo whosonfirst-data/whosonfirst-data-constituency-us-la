@@ -9,7 +9,7 @@
     "geom:bbox":"-92.41389,30.20793,-91.73149,30.850038",
     "geom:latitude":30.581166,
     "geom:longitude":-92.005853,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1478040963.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 24",
     "uscensus:sldust":"024",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486791,
     "wof:geomhash":"5a92e7537c1e4f194bf0943101665100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108766091,
     "wof:lastmodified":1481486791,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

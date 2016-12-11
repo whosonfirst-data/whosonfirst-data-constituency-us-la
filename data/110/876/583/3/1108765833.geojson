@@ -9,7 +9,7 @@
     "geom:bbox":"-92.4154,32.27648,-92.08808,32.63304",
     "geom:latitude":32.445019,
     "geom:longitude":-92.247862,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":672160498.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 15",
     "uscensus:sldlst":"015",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486745,
     "wof:geomhash":"3aba175a66a4e1919efdf38b9bd91cf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765833,
     "wof:lastmodified":1481486745,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],

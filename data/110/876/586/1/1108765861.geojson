@@ -9,7 +9,7 @@
     "geom:bbox":"-92.28074,30.84796,-91.67724,31.34381",
     "geom:latitude":31.076243,
     "geom:longitude":-92.001376,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2155855604.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 28",
     "uscensus:sldlst":"028",
     "uscensus:statefp":"22",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486750,
     "wof:geomhash":"3370fd38a7495b8c9d31d9005e8cdae8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
     "wof:id":1108765861,
     "wof:lastmodified":1481486750,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688735,
     "wof:repo":"whosonfirst-data-constituency-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
